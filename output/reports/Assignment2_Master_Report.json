@@ -1,0 +1,26 @@
+{
+    "Regression": {
+        "Best Model": "Linear Regression",
+        "R2 Score": 1.0,
+        "RMSE": 1.2178830624992355e-13,
+        "MAE": 9.908446159649512e-14
+    },
+    "Classification": {
+        "Best Model": "Random Forest",
+        "Accuracy": 1.0,
+        "F1 Score": 1.0,
+        "Precision": 1.0,
+        "Recall": 1.0
+    },
+    "Clustering": {
+        "Best Model": "K-Means",
+        "Silhouette Score": 0.09910313348570228,
+        "Davies-Bouldin Index": 1.8001966729261367,
+        "Calinski-Harabasz Index": 1837.0641098203123
+    },
+    "Reinforcement Learning": {
+        "Best Agent": "Deep Q-Network",
+        "Mean Reward": 945.25,
+        "SLA Violation (%)": 1.825
+    }
+}
