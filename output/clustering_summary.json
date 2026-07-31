@@ -1,0 +1,9 @@
+{
+  "optimal_k": 2,
+  "best_silhouette_score": 0.10638065652875178,
+  "kmeans_clusters": 2,
+  "agglo_clusters": 2,
+  "dbscan_clusters": 49,
+  "dbscan_eps": 0.8,
+  "sample_size": 100000
+}
